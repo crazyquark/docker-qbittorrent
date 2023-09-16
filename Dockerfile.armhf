@@ -1,6 +1,6 @@
 # syntax=docker/dockerfile:1
 
-FROM crazyquark/baseimage-alpine:latest
+FROM crazyquark/baseimage-alpine:armhf-edge
 
 # set version label
 ARG BUILD_DATE
